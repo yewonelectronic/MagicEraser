@@ -18,9 +18,8 @@ Start 버튼이 눌리면 Person Detection 재시작(Interrupt 버튼 사용)
 
 [기능4]
 
-지우개 동작 중 초음파센서에 손이 인식되면
-위험 알림
-![image](https://github.com/yewonelectronic/MagicEraser/assets/127283625/2fbfd3d9-59d3-47a3-8960-8fbdb0029f58)
+지우개 동작 중 초음파센서에 손이 인식되면 위험 알림
+
 
 
 
